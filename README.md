@@ -5,7 +5,7 @@ rl_sar with Youtube and Source Code.
 This repository provides rl_sar Tutorials
 
 ## Youtube Link
-- [Lectures](https://youtube.com/playlist?list=PLjHPb6Q6WLfI1gunb-W-RWPuNz0miQP_a&feature=shared) 
+- [Lectures](https://www.youtube.com/playlist?list=PLe_4ohXdkifXyibWkbxZaGSpkEL5liBc2) 
 
 ## Requirements
 - Ubuntu 22.04(robot_lab) or 20.04(HIMloco) 
